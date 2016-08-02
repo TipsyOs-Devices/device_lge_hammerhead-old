@@ -7,8 +7,8 @@
  },
  {
    "remote":      "github",
-   "repository":  "GZR-Kernels/Hammerhead_Drunk_Kernel",
+   "repository":  "CyanogenMod/android_kernel_lge_hammerhead",
    "target_path": "kernel/lge/hammerhead",
-   "branch":      "6.0"
+   "branch":      "cm-13.0"
  }
 ]
